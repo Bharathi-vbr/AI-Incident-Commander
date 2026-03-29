@@ -1,0 +1,2 @@
+- Built and productionized a local fintech incident simulation platform (`FastAPI`, `Redis`, `Prometheus`, `Grafana`, `Docker Compose`) that injected timeout, DB pool exhaustion, and error-spike failure modes to practice SRE incident command and reduce diagnosis time.
+- Implemented AI-assisted incident RCA (`/incident/summary`) by combining structured JSON logs and live telemetry with Claude API (plus resilient mocked fallback), enabling evidence-based triage narratives suitable for vendor and fintech reliability reviews.

@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+
+logs/*.log
+grafana-data/
+prometheus-data/
+
+frontend/node_modules/
+frontend/dist/
+
+.env

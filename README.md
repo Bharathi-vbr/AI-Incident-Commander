@@ -4,6 +4,14 @@ Production-style fintech incident simulation and response platform for SRE / Pla
 
 AI Incident Commander demonstrates how to detect, triage, automate, and close incidents using observable payment traffic, structured telemetry, and runbook-driven workflows.
 
+## About This Repository
+
+- **Project type:** SRE/Platform Engineering portfolio project
+- **Domain:** Fintech-style payment reliability and incident response
+- **Primary stack:** FastAPI, React (Vite), Redis, Prometheus, Grafana, Docker Compose
+- **What it showcases:** Incident detection, fault simulation, alert automation, runbook lifecycle, and resolved-incident tracking
+- **Best use:** Recruiter screen share demos, reliability interviews, and vendor submissions
+
 ## Why This Project Stands Out
 
 - Incident-first engineering design, not just app endpoints
